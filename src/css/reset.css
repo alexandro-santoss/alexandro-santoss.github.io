@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh; /* Tomando todo o tamanho da tela */
+  background: #d3cce3;
+  background: -webkit-linear-gradient(to right, #e9e4f0, #d3cce3);
+  background: linear-gradient(to right, #e9e4f0, #d3cce3);
+}
+
+.interface {
+  max-width: 1280px;
+  margin: 0 auto;
+  /*centralizada na tela*/
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.topo-do-site .flex {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.especialidades .flex {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.sobre-mim .flex {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
