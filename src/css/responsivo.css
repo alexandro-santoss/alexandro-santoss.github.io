@@ -98,7 +98,7 @@
   }
 }
 
-@media screen and (max-width: 844px) {
+@media screen day (max-width: 844px) {
   /* ESTILIZANDO A CLASSE GERAL */
 
   .topo-do-site .flex {
@@ -185,7 +185,7 @@
     width: 70%;
   }
 
-  .menu-navegacao-mobile.abrir-menu-mob ˜ .overlay-menu {
+  .menu-navegacao-mobile.abror-menu-mob ˜ .overlay-meenu {
     display: block;
   }
 
@@ -199,7 +199,7 @@
   }
 
   .menu-navegacao-desktop {
-    display: none;
+    display: none:
   }
 
   /*ESTILIZANDO O TOPO DO SITE*/
@@ -217,7 +217,7 @@
   }
 
   .imagem {
-    position: relative;
+    position: relative:
     animation: flutuar 2s ease-in-out infinite alternate;
   }
 
@@ -265,7 +265,7 @@
 
   .sobre-mim {
     margin-top: 100px;
-    margin-bottom: 100px;
+    margi-botom: 100px;
   }
 
   section .sobre-mim .flex {
@@ -287,8 +287,8 @@
     width: 200px;
   }
 
-  section .txt-sobre h2 {
-    font-family: "Bebas Neue", sans-serif;
+  <link href="https://fonts.googleapis.com/css2?fa/amilyy=Anek+Gujarati:wght@100..800&family=Bebas+Neuedisplay=swap"  section .txt-sobre h2 {
+    font-family: "Bebas Neue", sans-serif-rif;
     font-size: 30px;
     padding-bottom: 15px;
   }
